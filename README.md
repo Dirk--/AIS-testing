@@ -8,6 +8,10 @@ Sample data is kindly provided by aishub.net on 2025-11-09 (15 min. stream, worl
 * aishub_msg-25.csv ~260 msgs
 * aishub_msg-26.csv ~260 msgs
 
+binary-ais.csv (WIP) list old and new NMEA senteces, links documentation and validates AIS-catcher online decoder vs. AisDecoder
+* https://www.aiscatcher.org/tools/nmea-decoder
+* https://arundaleais.github.io/docs/ais/ais_decoder.html
+
 see also: 
 * https://wiki.opennauticalchart.org/index.php?title=AIS-Sources
 * https://wiki.opennauticalchart.org/index.php?title=AIS-Decoding
