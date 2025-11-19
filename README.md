@@ -2,13 +2,13 @@ This repository focuses on NON Position-Report (1,2,3,18,19) / Static-Data (5/24
 
 Sample data is kindly provided by aishub.net on 2025-11-09 (15 min. stream, world-wide coverage)
 
-* aishub_msg-06.csv ~1.600 msgs, sorted by DAC / FID, duplicates removed
-* aishub_msg-08.csv ~7.500 msgs, DAC:200/FID:10 removed, sorted by DAC / FID, duplicates removed
+* aishub_msg-06.csv ~1.600 msgs, sorted by DAC/FID/SUB, duplicates removed
+* aishub_msg-08.csv ~7.500 msgs, DAC:200/FID:10 removed, sorted by DAC/FID/SUB, duplicates removed
 * aishub_msg-12.csv ~40 msgs
 * aishub_msg-25.csv ~260 msgs
 * aishub_msg-26.csv ~260 msgs
 
-binary-ais.csv (WIP) list old and new NMEA senteces, links documentation and validates AIS-catcher online decoder vs. AisDecoder
+binary-ais.csv (WIP) lists old and recent NMEA senteces, links documentation and validates AIS-catcher online decoder vs. AisDecoder
 * https://www.aiscatcher.org/tools/nmea-decoder
 * https://arundaleais.github.io/docs/ais/ais_decoder.html
 
